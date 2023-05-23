@@ -1,0 +1,29 @@
+.card-01 {
+  border: 1px solid #e3e3e3;
+  border-radius: 8px;
+  margin: 24px 24px;
+  padding: 24px;
+  width: 100%;
+  h3 {
+    font-weight: bold;
+    text-align: center;
+    padding: 16px 0;
+  }
+  p {
+    text-align: center;
+    // padding: 24px 10px 24px;
+    line-height: 26px;
+    font-size: 16px;
+    font-weight: 400px;
+    font-style: normal;
+    color: #555555;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    // margin-top: 24px;
+    border: 1px solid #E9EBF8;
+    border-radius: 99px;
+  }
+}

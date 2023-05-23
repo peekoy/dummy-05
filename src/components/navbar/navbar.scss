@@ -1,0 +1,31 @@
+.navbar {
+  background-color: rgb(248, 250, 252);
+  margin: auto;
+  height: 72px;
+  padding-left: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  h2 {
+    color: #0552C7;
+    a {
+      font-weight: 600;
+      font-size: 20px;
+      text-decoration: none;
+    }
+  }
+  ul {
+    font-weight: 500;
+    gap: 4rem;
+    padding-right: 12px;
+    li {
+      list-style: none;
+      display: inline-block;
+      margin: 0 20px;
+      a {
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+    }
+  }
+}

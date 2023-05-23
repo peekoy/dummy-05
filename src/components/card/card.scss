@@ -1,0 +1,13 @@
+.card {
+  border: 1px solid #e3e3e3;
+  border-radius: 8px;
+  img {
+    border-radius: 8px 8px 0 0;
+  }
+}
+
+.card-content {
+  font-weight: bold;
+  text-align: center;
+  padding: 16px 0;
+}
