@@ -4,7 +4,7 @@ import React from "react";
 const navbar = () => {
   return (
     <div className="navbar">
-      <h2><a href="#"></a>Anjaya</h2>
+      <h2><a href="#"></a>Anjani</h2>
       <ul>
         <li><a href="#"></a>Tentang Kami</li>
         <li><a href="#"></a>Layanan</li>
